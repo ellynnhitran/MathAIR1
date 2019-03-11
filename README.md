@@ -75,9 +75,9 @@ Các thành phần cơ bản (TEFPA như trong bài giảng) cần được m�
 
   * Trong thời gian càng ngắn càng tốt: từ 6-7 ngày
 
-  * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (ảnh rõ nét và không rõ nét), (3) quan sát đặc điểm chung trong ảnh của bệnh và tạo ra một dataset (tập dữ liệu).
+  * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (có bệnh và không bệnh), (3) quan sát đặc điểm chung trong ảnh của bệnh và tạo ra một dataset (tập dữ liệu).
 
-  * Cần sự hỗ trợ của các tổ chức ImageNet cung cấp ảnh, những người dán nhãn ảnh rõ nét va không rõ nét,
+  * Cần sự hỗ trợ của các tổ chức y tế có uy tín cung cấp ảnh và chẩn đoán bệnh.
 
   * Mức độ khó khăn: 8/10. Vì ảnh chụp x-quang có thể khác nhau giữa mỗi bệnh viện. Như có bệnh viện chụp x-quang khi người bệnh đứng, còn nơi khác thì chụp khi người bệnh nằm. Từ đó dẫn đến góc độ cơ thể trong mỗi bức hình sẽ bị sai lệch ít nhiều dẫn đến khó khăn trong việc chẩn đoán của máy. 
 
@@ -93,13 +93,13 @@ Các thành phần cơ bản (TEFPA như trong bài giảng) cần được m�
 
    * Cần thu thập dữ liệu: 1,000 email từ khách hàng. 
 
-   * Trong thời gian càng ngắn càng tốt: từ 2 - 3 ngày
+   * Trong thời gian càng ngắn càng tốt: từ 6-8 ngày
 
-   * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (ảnh rõ nét và không rõ nét), (3) quan sát các từ chung của từng loại email và tạo ra một dataset (tập dữ liệu). Như email ở thư mục "hỏi thông tin" thì thường sẽ có dấu hỏi trong email.
+   * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (theo thư mục), (3) quan sát các từ chung của từng loại email và tạo ra một dataset (tập dữ liệu). Như email ở thư mục "hỏi thông tin" thì thường sẽ có dấu hỏi trong email.
 
-   * Cần sự hỗ trợ của các tổ chức ImageNet cung cấp ảnh, những người dán nhãn ảnh rõ nét va không rõ nét,
+   * Cần sự hỗ trợ của các công ty để lấy được thông tin email của khách hàng.
 
-   * Mức độ khó khăn: 5/10. 
+   * Mức độ khó khăn: 5/10. Khó khăn chủ yếu do tốn thời gian thu thập email và phân loại.
 
 
 ### Câu 6
