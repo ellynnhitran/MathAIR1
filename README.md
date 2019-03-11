@@ -3,7 +3,7 @@ My assignments for [MathAIR'19.01] course
 
 # Homework 1
 ```
-Tran Tue Nhi
+Trần Tuệ Nhi
 ```
 
 ### Câu 1
