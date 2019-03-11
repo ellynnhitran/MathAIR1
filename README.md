@@ -9,7 +9,7 @@ Trần Tuệ Nhi
 ### Câu 1
 
 Trí tuệ là khả năng tư duy và nhận thức của con người trên một khía cạnh nào đó. Theo như tiến sĩ Howard Gardner của đại học Harvard, con người có 9 loại hình trí thông minh chính: 
-* Trí thông minh toán học và logic: khả năng tư duylogic, lập luận một cách có hệ thống.
+* Trí thông minh toán học và logic: khả năng tư duy logic, lập luận một cách có hệ thống.
 * Trí thông minh âm nhạc và thính giác: năng lực cảm thụ âm nhạc, giai điệu và những thay đổi trong âm thanh.
 * Trí thông minh không gian và thị giác: khả năng nhận diện không gian và cấu trúc xung quanh mình (như nhớ đường và vẽ đồ họa)
 * Trí thông minh ngôn ngữ: khả năng sử dụng ngôn ngữ và ứng dụng linh hoạt vào những hoàn cảnh khác nhau (như viết báo, học ngoại ngữ)
