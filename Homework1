@@ -1,0 +1,114 @@
+# Homework 1
+```
+Tran Tue Nhi
+```
+
+### Câu 1
+
+Trí tuệ là khả năng tư duy và nhận thức của con người trên một khía cạnh nào đó. Theo như tiến sĩ Howard Gardner của đại học Harvard, con người có 9 loại hình trí thông minh chính: 
+* Trí thông minh toán học và logic: khả năng tư duylogic, lập luận một cách có hệ thống.
+* Trí thông minh âm nhạc và thính giác: năng lực cảm thụ âm nhạc, giai điệu và những thay đổi trong âm thanh.
+* Trí thông minh không gian và thị giác: khả năng nhận diện không gian và cấu trúc xung quanh mình (như nhớ đường và vẽ đồ họa)
+* Trí thông minh ngôn ngữ: khả năng sử dụng ngôn ngữ và ứng dụng linh hoạt vào những hoàn cảnh khác nhau (như viết báo, học ngoại ngữ)
+* Trí thông minh nội tâm: thấu hiểu rõ ràng về bản thân, những gì mình muốn làm và giỏi phân tích cuộc sống (như lý luận, triết học)
+* Trí thông minh cảm xúc: khả năng làm chủ cảm xúc của mình để phù hợp với tình huống.
+* Trí thông minh thể chất: năng lực vận động và điều khiển cơ thể mình dễdàng theo ý muốn.
+* Trí thông minh triết học: nhạy cảm, tò mò với những câu hỏi có chiều sâu mang tầm cỡ nhân loại như ý nghĩa tồn tại củ bản thân, loài người, tại sao con người sinh ra và chết đi.
+* Trí thông minh tự nhiên: yêu thích các hoạt động ngoài trời, yêu động vật,dễ dàng nhận biết các loài động thực vật.
+
+### Câu 2
+
+* Trí tuệ nhân tạo là sự nhân bản trí thông minh và khả năng tư duy của con người vào máy móc, nhằm tạo ra khả năng tư duy vượt trội lên đến sự hoàn hảo nhờ sự chính xác của máy tính.
+
+* Trí tuệ nhân tạo có 2 loại hình chính là: ANI (Artificial Narrow Intelligence) và AGI (Artificial General Intelligence)
+
+  * ANI: xe tự động lái, hệ thống gợi ý phim trên Netflix, trình tìm kiếm trên website.
+
+  * AGI: làm bất cứ điều gì con người có thể làm. 
+
+* Những tiến bộ góp phần dẫn đến cuộc cách mạng AI: 4 cuộc cách mạng công nghiệp trong lịch sử: (1) Cơ khí hóa với máy chạy bằng thủy lực và hơi nước. (2) Động cơ điện và dây chuyền sản xuất hàng loạt. (3) Kỷ nguyên máy tính và tự động hóa. (4) Các hệ thống liên kết thế giới thực và ảo. 
+
+
+### Câu 3
+
+Học là quá trình tiếp thu kiến thức và cái mới qua các giác quan. Học máy (machine learning) là quá trình máy tính tự động học qua các trải nghiệm. ML là một phần của AI. Kiến thức kỹ năng có thể được biểu diễn trong máy tính bằng hàm ẩn tối ưu. 
+
+
+### Câu 4
+
+Các thành phần cơ bản (TEFPA như trong bài giảng) cần được mô tả và cung cấp để máy tính tự học cách giải quyết một tác vụ là tìm ra giả thuyết có độ khái quát hóa cao nhất.  
+
+
+### Câu 5
+#### a, Máy tính chuyển 1 tấm ảnh chất lượng kém (mờ, low-resolution) lên thành ảnh rõ nét (high-resolution):
+
+* Đầu vào: ảnh low-resolution
+
+* Đầu ra: ảnh high-resolution
+
+* Dữ liệu cần chuẩn bị:
+
+  * Cần thu thập dữ liệu: 1,000 ảnh high-resolution và low-resolution
+
+  * Trong thời gian càng ngắn càng tốt: từ 2 - 3 ngày
+
+  * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (ảnh rõ nét và không rõ nét), (3) quan sát đặc điểm chung của ảnh rõ nét (hoặc không rõ nét) và tạo ra một dataset (tập dữ liệu).
+
+  * Cần sự hỗ trợ của các tổ chức Google hay ImageNet cung cấp ảnh, những người dán nhãn ảnh rõ nét và không rõ nét,
+
+  * Mức độ khó khăn: 6/10. Chủ yếu khó khăn là việc tìm nguồn ảnh đủ tốt để cho làm input.
+
+
+
+#### b, Máy tính xử lý ảnh chụp X-quang và dự đoán bệnh:
+
+* Đầu vào: ảnh chụp X-quang của bệnh
+
+* Đầu ra: kết quả chẩn đoán bệnh. 
+
+* Dữ liệu cần chuẩn bị:  
+
+  * Cần thu thập dữ liệu: 1,000 ảnh chụp X-quang 
+
+  * Trong thời gian càng ngắn càng tốt: từ 6-7 ngày
+
+  * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (ảnh rõ nét và không rõ nét), (3) quan sát đặc điểm chung trong ảnh của bệnh và tạo ra một dataset (tập dữ liệu).
+
+  * Cần sự hỗ trợ của các tổ chức ImageNet cung cấp ảnh, những người dán nhãn ảnh rõ nét va không rõ nét,
+
+  * Mức độ khó khăn: 8/10. Vì ảnh chụp x-quang có thể khác nhau giữa mỗi bệnh viện. Như có bệnh viện chụp x-quang khi người bệnh đứng, còn nơi khác thì chụp khi người bệnh nằm. Từ đó dẫn đến góc độ cơ thể trong mỗi bức hình sẽ bị sai lệch ít nhiều dẫn đến khó khăn trong việc chẩn đoán của máy. 
+
+
+
+#### c, máy tính đọc một email của khách hàng và tự chuyển đến thư mục tương ứng như "cảm ơn", "khiếu nại", "hỏi thông tin", "xin việc", v.v.
+
+* Đầu vào:  email từ khách hàng.  
+
+* Đầu ra:  thư mục tương ứng như "cảm ơn", "khiếu nại", "hỏi thông tin", "xin việc", v.v.  
+
+*  Dữ liệu cần chuẩn bị:    
+  * Cần thu thập dữ liệu: 1,000 email từ khách hàng. 
+
+  * Trong thời gian càng ngắn càng tốt: từ 2 - 3 ngày
+
+  * Cách thu thập (3 cách): (1) tải từ websites hoặc các tổ chức đối tác, (2) dán nhãn thủ công (ảnh rõ nét và không rõ nét), (3) quan sát các từ chung của từng loại email và tạo ra một dataset (tập dữ liệu). Như email ở thư mục "hỏi thông tin" thì thường sẽ có dấu hỏi trong email.
+
+  * Cần sự hỗ trợ của các tổ chức ImageNet cung cấp ảnh, những người dán nhãn ảnh rõ nét va không rõ nét,
+
+  * Mức độ khó khăn: 5/10. 
+
+
+
+6. Ý nghĩa câu phát biểu sau: Máy tính "học'' bằng cách tìm kiếm trong không gian các hàm số (chương trình máy tính).
+
+ Ý nghĩa câu phát biểu sau: Máy tính "học'' bằng cách tìm kiếm trong không gian các hàm số (chương trình máy tính) là: máy tính mô hình hóa những kiến thức kỹ năng bằng hàm số (hay hàm ẩn tối ưu). you
+
+
+
+7. Hai vấn đề chính về không gian hàm mà ta cần đặc biệt chú ý để giúp máy tính tự tìm kiếm hàm có độ khái quát hoá cao là gì?
+
+Hai vấn đề chính về không gian hàm mà ta cần đặc biệt chú ý để giúp máy tính tự tìm kiếm hàm có độ khái quát hoá cao là  (1) vấn đề biểu diễn (representation) không gian hàm và (2) vấn đề tìm kiếm/ huấn luyện (search/ train/ learn/ optimize) .
+
+8. Chia sẻ với bạn bè về các điều mà học viên thấy lý thú qua bài giảng này.
+
+Trong 6 bước làm khoa học, vấn đề quan sát và đặt ra giả thuyết cực kì quan trọng, đó là điều mà máy tính không thể thay thế con người trong hiện tại và có thể cả trong tương lai. Chính vì vậy, đối với câu hỏi liệu chúng ta có nên dè chừng sự phát triển của AI về một ngày nó chiếm quyền làm chủ của con người hay không, còn tùy thuộc vào việc trong tương lai robots có khả năng đặt ra giả thuyết về một tương lai chính nó làm chủ hay không. Bởi vì ANI có thể học được cách tư duy của loài người, nhưng liệu nó có trí tưởng tượng như con người hay không thì vẫn còn là một câu hỏi lớn trong tương lai. 
