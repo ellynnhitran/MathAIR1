@@ -1,6 +1,3 @@
-# MathAIR
-My assignments for [MathAIR'19.01] course
-
 # Homework 1
 ```
 Trần Tuệ Nhi
