@@ -101,7 +101,7 @@ Các thành phần cơ bản (TEFPA như trong bài giảng) cần được m�
 
 ### Câu 6
 
- Ý nghĩa câu phát biểu sau: Máy tính "học'' bằng cách tìm kiếm trong không gian các hàm số (chương trình máy tính) là: máy tính mô hình hóa những kiến thức kỹ năng bằng hàm số (hay hàm ẩn tối ưu). you
+ Ý nghĩa câu phát biểu sau: Máy tính "học'' bằng cách tìm kiếm trong không gian các hàm số (chương trình máy tính) là: máy tính mô hình hóa những kiến thức kỹ năng bằng hàm số (hay hàm ẩn tối ưu). 
 
 
 ### Câu 7
