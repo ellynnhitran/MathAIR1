@@ -31,7 +31,7 @@ Trí tuệ là khả năng tư duy và nhận thức của con người trên m�
 
 ### Câu 3
 
-Học là quá trình tiếp thu kiến thức và cái mới qua các giác quan. Học máy (machine learning) là quá trình máy tính tự động học qua các trải nghiệm. ML là một phần của AI. Kiến thức kỹ năng có thể được biểu diễn trong máy tính bằng hàm ẩn tối ưu. 
+Học là quá trình tiếp thu kiến thức và cái mới qua các giác quan. Học máy (machine learning) là quá trình máy tính tự động học qua các trải nghiệm. ML là tập con của AI. Kiến thức kỹ năng có thể được biểu diễn trong máy tính bằng hàm ẩn tối ưu. 
 
 
 ### Câu 4
